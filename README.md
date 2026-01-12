@@ -3,7 +3,7 @@
 
 ---
 
-I am a **Blockchain Consultant** and **Lead Engineer** with 5+ years of experience architecting secure DeFi protocols and multi-chain financial systems. A graduate of the **Polkadot Blockchain Academy**, I bridge the gap between high-performance Substrate architecture and the EVM ecosystem.
+I am a **Blockchain Consultant** and **Lead Engineer** with 5+ years of experience architecting secure DeFi protocols and multi-chain financial systems. An Alumni of the **Polkadot Blockchain Academy**, I bridge the gap between high-performance Substrate architecture and the EVM ecosystem.
 
 My work centers on **Technical Risk Mitigation**—helping protocols scale into multi-chain environments without compromising security, gas efficiency, or capital integrity.
 
