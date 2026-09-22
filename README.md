@@ -30,7 +30,7 @@ I'm currently founder of two active Web3 ventures and a regular speaker on Accou
 | -------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Account Abstraction**    | ERC-4337 architecture, smart account design, paymaster/bundler concepts.                                  |
 | **Protocol Design**        | Multi-chain Asset Management, RWA Tokenization, DeFi Primitives (Escrow, Lending).                        |
-| **Security & Auditing**    | Manual Smart Contract Audits, Invariant Testing, Fuzzing (Foundry), trained via Guardian Audits (Owen Thurm), Damn Vulnerable DeFi, Ethernaut, Capture the Ether. |
+| **Security & Auditing**    | Manual Smart Contract Audits, Invariant Testing, Fuzzing (Foundry), Guardian Audits Security Course (Owen Thurm), Damn Vulnerable DeFi, Ethernaut, Capture the Ether. |
 | **Architecture**           | Solidity/EVM internals, Rust/Substrate (Polkadot SDK), Rust/Anchor (Solana), Cairo, Proxy Patterns (UUPS/Transparent). |
 | **Business & Growth**      | Public speaking, developer relations, partnerships, and community-building across the AA ecosystem.        |
 
