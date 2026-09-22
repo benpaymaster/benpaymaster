@@ -1,62 +1,101 @@
 # 🛡️ Ben Ogungbeje (benpaymaster)
-### **Blockchain Consultant | DeFi Architect | Smart Contract Security Researcher**
+
+### **Account Abstraction Specialist | Web3 Founder & Solidity Engineer | Public Speaker**
 
 ---
 
-I am a **Blockchain Consultant** and **Lead Engineer** with 5+ years of experience architecting secure DeFi protocols and multi-chain financial systems. An Alumni of the **Polkadot Blockchain Academy**, I bridge the gap between high-performance Substrate architecture and the EVM ecosystem.
+I'm a **Web3 builder** with 6 years of Solidity and smart contract engineering experience across DeFi, gaming, RWA, and metaverse projects, and a specialist in **Account Abstraction (ERC-4337)**. An alumnus of the **Polkadot Blockchain Academy**, I combine hands-on protocol engineering with public speaking, community building, and partnerships — the mix PBA itself flagged as my strongest edge.
 
-My work centers on **Technical Risk Mitigation**—helping protocols scale into multi-chain environments without compromising security, gas efficiency, or capital integrity.
+I'm currently founder of two active Web3 ventures and a regular speaker on Account Abstraction at Ethereum community events.
 
 ---
 
-### 🏛️ Core Advisory Expertise
+### 🎤 Speaking & Community
 
-| Category | Specialized Focus |
-| :--- | :--- |
-| **Protocol Design** | **Multi-chain Asset Management**, RWA Tokenization, DeFi Primitives (Escrow, Lending). |
-| **Security & Auditing** | **Manual Smart Contract Audits**, Invariant Testing, Fuzzing (Foundry), MEV Resistance. |
-| **Architecture** | **Polkadot SDK/Substrate**, EVM (Solidity) internals, Proxy Patterns (UUPS/Transparent), XCM/LayerZero. |
-| **Math & Logic** | Formal verification of funding rates, liquidation engines, and tokenomic flows. |
+[#-speaking--community](#-speaking--community)
+
+- **ETH Warsaw** — Speaker, Account Abstraction
+- **ETH Cluj** — Speaker, Account Abstraction
+- **Ethereum Engineering Group** — Speaker, Account Abstraction
+- **Polkadot Blockchain Academy** — Alumnus, Bali Cohort, 2025
+- Active member, Account Abstraction Telegram community and the Infinitism / ERC-4337 Discord
+
+---
+
+### 🏛️ Core Expertise
+
+[#️-core-expertise](#️-core-expertise)
+
+| Category                  | Specialized Focus                                                                                     |
+| -------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Account Abstraction**    | ERC-4337 architecture, smart account design, paymaster/bundler concepts.                                  |
+| **Protocol Design**        | Multi-chain Asset Management, RWA Tokenization, DeFi Primitives (Escrow, Lending).                        |
+| **Security & Auditing**    | Manual Smart Contract Audits, Invariant Testing, Fuzzing (Foundry), trained via Guardian Audits (Owen Thurm), Damn Vulnerable DeFi, Ethernaut, Capture the Ether. |
+| **Architecture**           | Solidity/EVM internals, Rust/Substrate (Polkadot SDK), Rust/Anchor (Solana), Cairo, Proxy Patterns (UUPS/Transparent). |
+| **Business & Growth**      | Public speaking, developer relations, partnerships, and community-building across the AA ecosystem.        |
 
 ---
 
 ### 🛠️ Technical Stack
 
-* **Languages:** Solidity (Expert), Rust (Substrate/Polkadot SDK), Cairo, TypeScript, Python.
-* **Security Tools:** Foundry, Slither, Echidna, Mythril, Tenderly, Hardhat.
-* **Infrastructure:** IPFS/Filecoin, Multi-sig Governance (Safe), Oracle Integrations (Chainlink/Pyth).
+[#️-technical-stack](#️-technical-stack)
+
+- **Languages:** Solidity (Expert), Rust (Substrate/Polkadot SDK, Anchor/Solana), Cairo, TypeScript, Python.
+- **Security Tools:** Foundry, Slither, Echidna, Mythril, Tenderly, Hardhat.
+- **Infrastructure:** PostgreSQL, IPFS/Filecoin, Multi-sig Governance (Safe), Oracle Integrations (Chainlink/Pyth).
 
 ---
 
-### 💡 Featured Architecture & Projects
+### 💡 Featured Projects
+
+[#-featured-projects](#-featured-projects)
 
 #### 🛡️ [Audit Portfolio](https://github.com/benpaymaster/audit-portfolio)
-My central hub for smart contract security research, exploit reproductions, and manual audit findings. Demonstrates an adversarial mindset in protecting DeFi TVL.
 
-#### 🏠 UltraRentz (Lead Architect)
-* **Focus:** Decentralized Multi-chain RWA Escrow.
-* **Innovation:** Designed secure, multi-signature transaction flows to monetize rent deposits using Solidity and Cairo. Focuses on bridging off-chain legal logic with on-chain immutability.
-* ➡️ [**Explore Codebase**](https://github.com/benpaymaster/UltraRentz)
+[#️-audit-portfolio](#️-audit-portfolio)
 
-#### 🌾 Kroptatsic (Lead Engineer)
-* **Focus:** Supply Chain Integrity & Asset Tracking.
-* **Innovation:** Utilizing **Rust** and Substrate logic for high-performance, verifiable tracking of agricultural physical assets (RWA).
+My central hub for smart contract security research, exploit reproductions, and manual audit findings.
+
+#### 🏠 UltraRentz (Founder & CEO)
+
+[#-ultrarentz-founder--ceo](#-ultrarentz-founder--ceo)
+
+- **Focus:** Decentralized, multi-chain RWA rent-deposit escrow, with yield-bearing, condition-based fund release.
+- **Team:** Led a distributed team of a co-founder and 3 engineers (Kuala Lumpur, Indonesia, and Nigeria) through product build-out.
+- **Traction:** Ran a pilot in partnership with the University of Hertfordshire, building a 40-person sign-up waiting list ahead of launch.
+- **Multi-chain:** Built in Solidity, ported to Cairo, and ported to Solana (Anchor) following Encode Club's Solana Rust Bootcamp.
+- ➡️ [**Explore Codebase**](https://github.com/benpaymaster/UltraRentz)
+
+#### 💊 MapMyMeds (Founder & CEO)
+
+[#-mapmymeds-founder--ceo](#-mapmymeds-founder--ceo)
+
+- **Focus:** Decentralized pharmaceutical stock-tracking and shortage-resolution platform.
+- **Traction:** Leading a live pilot across Leeds (LS1 City Centre and LS13 Bramley).
+- **Advisory:** Advised by Dr. Asare Domfeh (PhD, Nutrition & Endocrinology, King's College London), an NHS senior dietetic consultant, on healthcare policy and regulatory strategy.
+
+#### 🌾 Kroptastic (Founder)
+
+[#-kroptastic-founder](#-kroptastic-founder)
+
+- **Focus:** Agriculture tokenization, bringing IoT supply-chain data on-chain for verifiable provenance.
 
 ---
 
-### 🎯 Current Focus: Consulting & Technical Oversight
+### 🎯 Current Focus
 
-I am currently available for:
-* **Fractional CTO / Blockchain Consultant** roles for early-stage DeFi/RWA pivots.
-* **Senior/Lead Smart Contract Engineering** (Solidity/EVM).
-* **Security Retainers** & Protocol Design Reviews.
+[#-current-focus](#-current-focus)
 
----
+I'm currently open to:
 
-### 📬 Executive Connection
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bendeficrypto/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben@ultrarentz.co.site)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ultrarentz)
+- **Founding / Senior Smart Contract Engineer** roles (Solidity, EVM security, AA).
+- **Developer Relations, Business Development, or Partnerships** roles in the Account Abstraction and wider Web3 ecosystem.
+- **Speaking engagements** on Account Abstraction and smart account UX.
 
 ---
+
+### 📬 Connect
+
+[#-connect](#-connect)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bendeficrypto/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benpaymaster@gmail.com) [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ultrarentz)
