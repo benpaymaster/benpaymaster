@@ -40,7 +40,7 @@ I'm currently founder of two active Web3 ventures and a regular speaker on Accou
 
 [#️-technical-stack](#️-technical-stack)
 
-- **Languages:** Solidity (Expert), Rust (Substrate/Polkadot SDK, Anchor/Solana), Cairo, TypeScript, Python.
+- **Languages:** Solidity (Expert), Rust (Substrate/Polkadot SDK, Anchor/Solana), experimented with Cairo, TypeScript, Python.
 - **Security Tools:** Foundry, Slither, Echidna, Mythril, Tenderly, Hardhat.
 - **Infrastructure:** PostgreSQL, IPFS/Filecoin, Multi-sig Governance (Safe), Oracle Integrations (Chainlink/Pyth).
 
@@ -63,7 +63,7 @@ My central hub for smart contract security research, exploit reproductions, and 
 - **Focus:** Decentralized, multi-chain RWA rent-deposit escrow, with yield-bearing, condition-based fund release.
 - **Team:** Led a distributed team of a co-founder and 3 engineers (Kuala Lumpur, Indonesia, and Nigeria) through product build-out.
 - **Traction:** Ran a pilot in partnership with the University of Hertfordshire, building a 40-person sign-up waiting list ahead of launch.
-- **Multi-chain:** Built in Solidity, ported to Cairo, and ported to Solana (Anchor) following Encode Club's Solana Rust Bootcamp.
+- **Multi-chain:** Built in Solidity, ported to Solana (Anchor) following Encode Club's Solana Rust Bootcamp.
 - ➡️ [**Explore Codebase**](https://github.com/benpaymaster/UltraRentz)
 
 #### 💊 MapMyMeds (Founder & CEO)
